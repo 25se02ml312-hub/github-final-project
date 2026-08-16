@@ -13,3 +13,4 @@ enhancements, and ideas are welcome.
 6. Create a pull request.
 
 Please ensure that your contributions are clear and well documented.
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
